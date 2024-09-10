@@ -15,7 +15,8 @@
 ![Screenshot 2024-09-06 135827](https://github.com/user-attachments/assets/327c6699-d855-4fad-9359-3281eb6786d3)
 
 ### 5. Ubahlah ijin akses file dataku pada sub direktori pebruari sehingga user dapat melakukan baik write, read maupun execute, tetapi group dan others hanya bisa read dan execute. 
-![Screenshot 2024-09-06 140232](https://github.com/user-attachments/assets/36f2930f-8687-444c-babf-12100390facc)
+![Screenshot 2024-09-10 225601](https://github.com/user-attachments/assets/00ca04b0-efc1-4dd0-856c-6f62502c7332)
+
 
 ### 6. Ubahlah ijin akses file dataku pada sub direktori maret sehingga semua dapat melakukan write, read dan execute. 
 ![Screenshot 2024-09-06 140405](https://github.com/user-attachments/assets/0692c2fb-ea18-4c18-b891-5c7a728ebe6f)
