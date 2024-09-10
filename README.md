@@ -22,11 +22,17 @@
 ![Screenshot 2024-09-06 140405](https://github.com/user-attachments/assets/0692c2fb-ea18-4c18-b891-5c7a728ebe6f)
 
 ### 7. Hapuslah direktori maret. 
+![Screenshot 2024-09-06 140454](https://github.com/user-attachments/assets/6e04954a-5dd0-4ce6-baa3-f3c62dfe1e70)
 
 
 ### 8. Ubahkan kepemilikan sub direktori februari sehingga user dan group hanya dapat melakukan read, dan cobalah untuk membuat direktori baru haha pada sub direktori februari.
+![Screenshot 2024-09-06 155607](https://github.com/user-attachments/assets/c92ffc20-5f67-43c7-933b-06b06a85c93b)
 
 
 ### 9. Modifikasi umask dari file dataku pada sub direktori januari menjadi 027 dan berapakan nilai default-nya ?
+![Screenshot 2024-09-06 155945](https://github.com/user-attachments/assets/baeaec4e-616c-4558-8a56-ea1e602139fd)
+
+### 10. Buatlah link dari file dataku ke file dataku.ini dan file dataku.juga dan dengan perintah list perhatikan berapa link yang terjadi ? 
+![Screenshot 2024-09-09 075618](https://github.com/user-attachments/assets/52286a2e-7069-42c4-9bfd-c6a24684b975)
 
 
